@@ -105,7 +105,7 @@ cd dual-molecule-TIRF-analysis
 ## Running the analysis
 - Run the script from the command line:
 ```bash
-python dualTIRF_modified_skip.py
+python dualTIRF_track_analysis.py
 ```
 - The script is interactive and will prompt the user to define all analysis parameters at runtime.
 - Press Enter to accept the default value for any parameter.
