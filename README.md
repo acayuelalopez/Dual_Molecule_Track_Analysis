@@ -96,7 +96,7 @@ pip install numpy pandas matplotlib scikit-image pillow
 ### Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/dual-molecule-TIRF-analysis.git
+git clone https://github.com/acayuelalopez/dual-molecule-TIRF-analysis.git
 cd dual-molecule-TIRF-analysis
 ```
 
